@@ -10,7 +10,7 @@
 \date{}
 \newfontfamily{\headerfont}{Futura}
 
-\newcommand{\cardheader}[2]{
+\newcommand{\card}[4]{
     \null
     \vfill
     \begin{center}
@@ -21,22 +21,18 @@
         \headerfont{\Large{#2}}
     \end{center}
     \vfill
-}
-\newcommand{\cardleft}[1]{
     \begin{minipage}[b]{0.5\textwidth}
         \begin{center}
             \small{
-                #1
+                #3
             }
         \end{center}
     \end{minipage}
     \textcolor{RoyalBlue}{\vrule}
-}
-\newcommand{\cardright}[1]{
     \begin{minipage}[b]{0.5\textwidth}
         \begin{center}
             \small{
-                #1
+                #4
             }
         \end{center}
     \end{minipage}

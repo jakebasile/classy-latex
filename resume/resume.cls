@@ -9,24 +9,20 @@
 \setlength{\parindent}{0pt}
 \newfontfamily{\headerfont}{Futura}
 \newcommand{\resumetitle}[4]{
-    % title
     \begin{center}
         \headerfont{\Huge #1}
         \vspace{0.1in}
     \end{center}
-    % websites
     \begin{minipage}{0.33\textwidth}
         \begin{flushleft}
             #2
         \end{flushleft}
     \end{minipage}
-    % physical address
     \begin{minipage}{0.33\textwidth}
         \begin{center}
             #3
         \end{center}
     \end{minipage}
-    % contact info
     \begin{minipage}{0.33\textwidth}
         \begin{flushright}
             #4
