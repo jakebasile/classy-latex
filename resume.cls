@@ -57,6 +57,10 @@
         \end{flushleft}
     \end{minipage}
 }
+\newcommand{\resumesection}[2]{
+    \sectiontitle{#1}
+    \sectioncontent{#2}
+}
 \newcommand{\education}[3]{
     \begin{minipage}{0.55\textwidth}
         \begin{flushleft}
@@ -73,9 +77,9 @@
             \textmd{#3}
         \end{flushleft}
     \end{minipage}
-    \\ [0.075in]
+    \\ [0.05in]
 }
-\newcommand{\experience}[4]{
+\newcommand{\experience}[5]{
     \begin{minipage}{0.55\textwidth}
         \begin{flushleft}
             \textbf{#1}
@@ -96,10 +100,8 @@
             #4
         \end{flushright}
     \end{minipage}
-}
-\newcommand{\experiencedesc}[1]{
     \\ [0.025in]
-    #1
+    #5
     \\ [0.05in]
 }
 \newcommand{\project}[3]{
