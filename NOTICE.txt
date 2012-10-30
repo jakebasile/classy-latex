@@ -1,0 +1,3 @@
+Copyright 2012 Jake Basile (http://jakebasile.com)
+Source @ http://github.com/jakebasile/latex-classes
+
