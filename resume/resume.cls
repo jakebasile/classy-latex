@@ -15,13 +15,13 @@
 \ProvidesClass{resume}
 \LoadClass[letterpaper, 10pt]{article}
 \usepackage{fontspec}
-\setmainfont{Optima}
+\setmainfont{Ubuntu Light}
 \usepackage[centering, hmargin=1in, vmargin=0.75in]{geometry}
 \usepackage{nopageno}
 \usepackage{color}
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \setlength{\parindent}{0pt}
-\newfontfamily{\headerfont}{Futura}
+\newfontfamily{\headerfont}{Ubuntu Condensed}
 \newcommand{\resumetitle}[4]{
     \begin{center}
         \headerfont{\Huge #1}

@@ -16,13 +16,13 @@
 \LoadClass[10pt]{memoir}
 \usepackage[centering, hmargin=5mm, vmargin=5mm, paperwidth=90mm, paperheight=52mm]{geometry}
 \usepackage{fontspec}
-\setmainfont{Optima}
+\setmainfont{Ubuntu Light}
 \usepackage{nopageno}
 \usepackage{color}
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \setlength{\parindent}{0pt}
 \date{}
-\newfontfamily{\headerfont}{Futura}
+\newfontfamily{\headerfont}{Ubuntu Condensed}
 
 \newcommand{\card}[4]{
     \null
