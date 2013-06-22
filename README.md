@@ -5,3 +5,5 @@ Just some LaTeX classes I wrote for personal use. Feel free to use them if you l
 [resume]: http://www.jakebasile.com/downloads/example-resume.pdf
 [card]: http://www.jakebasile.com/downloads/example-card.pdf
 
+There classes use the "Ubuntu Light" font.
+
