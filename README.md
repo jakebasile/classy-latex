@@ -1,6 +1,14 @@
 # LaTeX Classes
 
-Just some LaTeX classes I wrote for personal use. Feel free to use them if you like.
+LaTeX classes for a clean résumé and matching business card.
+
+## Résumé
+
+![Example](/resume/example.png?raw=true)
+
+## Card
+
+![Example](/card/example.png?raw=true)
 
 These classes use the "Ubuntu Light" font, which can be obtained from [The Ubuntu font site][ubuntu].
 
