@@ -1,13 +1,13 @@
 \ProvidesClass{resume}
 \LoadClass[letterpaper, 10pt]{article}
 \usepackage{fontspec}
-\setmainfont{Ubuntu Light}
+\setmainfont{Roboto Light}
 \usepackage[centering, hmargin=1in, vmargin=0.75in]{geometry}
 \usepackage{nopageno}
 \usepackage{color}
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \setlength{\parindent}{0pt}
-\newfontfamily{\headerfont}{Ubuntu Condensed}
+\newfontfamily{\headerfont}{Roboto Slab}
 \newcommand{\resumetitle}[4]{
     \begin{center}
         \headerfont{\Huge #1}

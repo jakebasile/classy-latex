@@ -2,13 +2,13 @@
 \LoadClass[10pt]{memoir}
 \usepackage[centering, hmargin=5mm, vmargin=5mm, paperwidth=90mm, paperheight=52mm]{geometry}
 \usepackage{fontspec}
-\setmainfont{Ubuntu Light}
+\setmainfont{Roboto Light}
 \usepackage{nopageno}
 \usepackage{color}
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \setlength{\parindent}{0pt}
 \date{}
-\newfontfamily{\headerfont}{Ubuntu Condensed}
+\newfontfamily{\headerfont}{Roboto Slab}
 
 \newcommand{\card}[4]{
     \null
