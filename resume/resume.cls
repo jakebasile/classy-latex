@@ -1,5 +1,5 @@
 \ProvidesClass{resume}
-\LoadClass[letterpaper, 10pt]{article}
+\LoadClass[letterpaper, 11pt]{article}
 \usepackage{fontspec}
 \setmainfont{Roboto Light}
 \usepackage[centering, hmargin=1in, vmargin=0.75in]{geometry}
