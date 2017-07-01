@@ -2,13 +2,13 @@
 \LoadClass[10pt]{memoir}
 \usepackage[centering, hmargin=5mm, vmargin=5mm, paperwidth=90mm, paperheight=52mm]{geometry}
 \usepackage{fontspec}
-\setmainfont{Roboto Light}
+\setmainfont{Source Sans Pro}
 \usepackage{nopageno}
 \usepackage{color}
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \setlength{\parindent}{0pt}
 \date{}
-\newfontfamily{\headerfont}{Roboto Slab}
+\newfontfamily{\headerfont}{Source Serif Pro}
 
 \newcommand{\card}[4]{
     \null

@@ -1,13 +1,13 @@
 \ProvidesClass{resume}
 \LoadClass[letterpaper, 11pt]{article}
 \usepackage{fontspec}
-\setmainfont{Roboto Light}
+\setmainfont{Source Sans Pro}
 \usepackage[centering, hmargin=1in, vmargin=0.75in]{geometry}
 \usepackage{nopageno}
 \usepackage{color}
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \setlength{\parindent}{0pt}
-\newfontfamily{\headerfont}{Roboto Slab}
+\newfontfamily{\headerfont}{Source Serif Pro}
 \newcommand{\resumetitle}[4]{
     \begin{center}
         \headerfont{\Huge #1}
